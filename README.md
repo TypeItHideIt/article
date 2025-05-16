@@ -100,7 +100,7 @@ Table 6. Evaluation of Secure LLM base model on several datasets
 | Mistral-7B V0.1           | 60.1         | 67.9              | 42.5            |
 | Secure Flan T5-XL         | 49.29        | **73.05**         | **43.48**       |
 | Secure Llama 3.2 3B       | 56.71        | 69.01             | 39.12           |
-| Secure Mistral-7B V0.1    | **62.61      | **71.76**         | **44.23**       |
+| Secure Mistral-7B V0.1    | **62.61**      | **71.76**         | **44.23**       |
 
 
 Table 7. Evaluation of Secure LLM instruct models on several datasets
